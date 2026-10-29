@@ -6,9 +6,7 @@ This software is written in C# and demonstrates a basic Console.WriteLine comman
 
 My purpose in creating this software was to refresh myself on some C# basics.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mDUMWAVneDI)
 
 # Development Environment
 
@@ -20,3 +18,4 @@ Programming language used: C#.
 
 {Make a list of websites that you found helpful in this project}
 * [Tutorial: Explore the C# language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+* [ChatGPT](https://chatgpt.com/)
